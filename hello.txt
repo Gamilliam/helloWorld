@@ -1,1 +1,4 @@
 Hello World !
+
+I added a "name" at the end of this file :
+Name
